@@ -9,4 +9,4 @@ Os clientes são classificados como investidores Conservadores, Moderados ou Agr
 **Para desenvolver este projeto, não é permitido utilizar nenhuma biblioteca como numpy ou math. Deve-se utilizar apenas os objetos e 
 fluxos vistos até o momento no curso, como funções e estruturas de controle.**
 
-O projeto pode ser acessado [aqui](https://github.com/leticiadluz/projetos_ADA/blob/main/KNN_projeto_carteira_investimentos.ipynb)
+O projeto **Algoritmo  KNN** pode ser acessado [aqui](https://github.com/leticiadluz/projetos_ADA/blob/main/KNN_projeto_carteira_investimentos.ipynb)
