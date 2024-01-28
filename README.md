@@ -1,6 +1,6 @@
 # Projetos ADA Tech
 
-**No repositório, você encontrará os projetos de cada módulo para o curso de Data Science da AdaTech, em parceria com o Santander Coders.**
+**No repositório, você encontrará os projetos de cada módulo do curso de Data Science da AdaTech, em parceria com o Santander Coders.**
 
 O primeiro projeto do módulo "Técnicas de Programação em Python" tem como objetivo desenvolver um algoritmo baseado em k-Nearest Neighbors (k-NN), 
 também conhecido como "algoritmo do vizinho mais próximo", para classificar o perfil de investidores de clientes de uma empresa de investimentos. 
