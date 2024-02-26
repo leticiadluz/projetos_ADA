@@ -2,7 +2,7 @@
 
 **No repositório, você encontrará os projetos de cada módulo do curso de Data Science da AdaTech, em parceria com o Santander Coders.**
 
-### Lógica de Programação em Python
+### Lógica de Programação II em Python
 O primeiro projeto tem como objetivo desenvolver um algoritmo baseado em k-Nearest Neighbors (k-NN), 
 também conhecido como "algoritmo do vizinho mais próximo", para classificar o perfil de investidores de clientes de uma empresa de investimentos. 
 A ideia é utilizar os dados de clientes já classificados para estimar o perfil daqueles que ainda não foram categorizados. 
