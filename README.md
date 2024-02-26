@@ -25,7 +25,7 @@ O projeto foi elaborado no Colab, e o primeiro notebook, onde realizamos a limpe
 - Durante nosso processo de limpeza e transformação dos dados, criamos outro conjunto de dados para facilitar a análise exploratória. **Você pode acessar o conjunto de dados limpo clicando
 [aqui](https://github.com/leticiadluz/projetos_ADA/blob/main/tecnicas_programacao/filmes_netflix_corrigido.csv)**
 
-O segundo notebook foi elaborado com base no conjunto de dados já limpo e é intitulado **"2_Netflix_EDA.ipynb" e pode ser acessado [aqui](https://github.com/leticiadluz/projetos_ADA/blob/main/tecnicas_programacao/2_Netflix_EDA.ipynb)
+O segundo notebook foi elaborado com base no conjunto de dados já limpo e é intitulado **"2_Netflix_EDA.ipynb" e pode ser acessado [aqui](https://github.com/leticiadluz/projetos_ADA/blob/main/tecnicas_programacao/2_Netflix_EDA.ipynb)**
 
 
 
