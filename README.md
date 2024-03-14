@@ -19,7 +19,7 @@ Nosso grupo selecionou dois conjuntos de dados para analisar os padrões de pref
 
 **Datasets utilizados:**
 - all-weeks-countries.xlsx:
- Descrição do Dataset:O primeiro conjunto de dados é fornecido pela Netflix e contém as listas semanais dos títulos mais assistidos na Netflix em todo o mundo, por país. A coleta de dados começou em 28 de junho de 2021 e foi atualizada pela última vez em 05/02/2024, antes deste projeto. Ele pode ser acessado [aqui](https://github.com/leticiadluz/projetos_ADA/blob/main/tecnicas_programacao/all-weeks-countries.xlsx).**
+  - Descrição do Dataset:O primeiro conjunto de dados é fornecido pela Netflix e contém as listas semanais dos títulos mais assistidos na Netflix em todo o mundo, por país. A coleta de dados começou em 28 de junho de 2021 e foi atualizada pela última vez em 05/02/2024, antes deste projeto. Ele pode ser acessado [aqui](https://github.com/leticiadluz/projetos_ADA/blob/main/tecnicas_programacao/all-weeks-countries.xlsx).**
 
 - data.tsv
   - Descrição do Dataset: O segundo conjunto de dados, foi obtido do site da IMDb. Este conjunto contém uma lista de todos os filmes mundiais, juntamente com suas características mais relevantes. O conjunto pode ser acessado clicando [aqui](https://datasets.imdbws.com/title.basics.tsv.gz). Pode ser um arquivo muito grande não conseguimos armazená-lo no GitHub.
