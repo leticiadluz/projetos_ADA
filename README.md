@@ -42,7 +42,8 @@ Para esta tarefa, utilizaremos o Jupyter Notebook para conduzir nossa análise d
 - Books Dataset
   - Descrição do Dataset: Este conjunto de dados compreende informações coletadas do wonderbk.com, uma livraria online popular.
     O conjunto de dados contém detalhes de 103.063 livros, com atributos-chave como título, autores, descrição, categoria, editora, preço inicial e data de publicação.
-    Para acessar clique [aqui](https://www.kaggle.com/datasets/elvinrustam/books-dataset)
+    Para acessar clique [aqui](https://www.kaggle.com/datasets/elvinrustam/books-dataset)  
+
 O projeto **Análise Exploratória de Dados Utilizando SQL e Python** pode ser acessado [aqui](https://github.com/leticiadluz/projetos_ADA/blob/main/banco_dados/Projeto_banco_dados.ipynb)
 
 
