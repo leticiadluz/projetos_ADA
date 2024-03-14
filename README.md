@@ -24,11 +24,11 @@ Nosso grupo selecionou dois conjuntos de dados para analisar os padrões de pref
 - data.tsv
   - Descrição do Dataset: O segundo conjunto de dados, foi obtido do site da IMDb. Este conjunto contém uma lista de todos os filmes mundiais, juntamente com suas características mais relevantes. O conjunto pode ser acessado clicando [aqui](https://datasets.imdbws.com/title.basics.tsv.gz). Pode ser um arquivo muito grande não conseguimos armazená-lo no GitHub.
 
-O projeto foi elaborado no Colab, e o primeiro notebook, onde realizamos a limpeza e transformação dos dados, é intitulado **"1_Netflix_limpeza_transformacao.ipynb". Você pode acessá-lo clicando [aqui](https://github.com/leticiadluz/projetos_ADA/blob/main/tecnicas_programacao/1_Netflix_limpeza_transformacao.ipynb)**
-- Durante nosso processo de limpeza e transformação dos dados, criamos outro conjunto de dados para facilitar a análise exploratória. **Você pode acessar o conjunto de dados limpo clicando
-[aqui](https://github.com/leticiadluz/projetos_ADA/blob/main/tecnicas_programacao/filmes_netflix_corrigido.csv)**
+O projeto foi elaborado no Colab, e o primeiro notebook, onde realizamos a limpeza e transformação dos dados, é intitulado **"1_Netflix_limpeza_transformacao.ipynb".** Você pode acessá-lo clicando [aqui](https://github.com/leticiadluz/projetos_ADA/blob/main/tecnicas_programacao/1_Netflix_limpeza_transformacao.ipynb)
+- Durante nosso processo de limpeza e transformação dos dados, criamos outro conjunto de dados para facilitar a análise exploratória. Você pode acessar o conjunto de dados limpo clicando
+[aqui](https://github.com/leticiadluz/projetos_ADA/blob/main/tecnicas_programacao/filmes_netflix_corrigido.csv)
 
-O segundo notebook foi elaborado com base no conjunto de dados já limpo e é intitulado **"2_Netflix_EDA.ipynb" e pode ser acessado [aqui](https://github.com/leticiadluz/projetos_ADA/blob/main/tecnicas_programacao/2_Netflix_EDA.ipynb)**
+O segundo notebook foi elaborado com base no conjunto de dados já limpo e é intitulado **"2_Netflix_EDA.ipynb"** e pode ser acessado [aqui](https://github.com/leticiadluz/projetos_ADA/blob/main/tecnicas_programacao/2_Netflix_EDA.ipynb)
 
 ### Banco de Dados I
 
