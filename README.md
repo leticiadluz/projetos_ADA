@@ -1,6 +1,6 @@
 # Projetos ADA Tech
 
-**No repositório, você encontrará os projetos de cada módulo do curso de Data Science da AdaTech, em parceria com o Santander Coders.**
+**No repositório, você encontrará os projetos de cada módulo do curso de Data Science da AdaTech do programa Santander Coders.**
 
 ### Lógica de Programação II em Python
 O primeiro projeto tem como objetivo desenvolver um algoritmo baseado em k-Nearest Neighbors (k-NN), 
