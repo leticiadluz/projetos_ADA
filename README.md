@@ -49,4 +49,14 @@ Para esta tarefa, utilizaremos o Jupyter Notebook para conduzir nossa análise d
 
 O projeto **Análise Exploratória de Dados Utilizando SQL e Python** pode ser acessado [aqui](https://github.com/leticiadluz/projetos_ADA/blob/main/banco_dados/Projeto_banco_dados.ipynb)
 
+### Estatística
+
+O propósito deste quarto projeto é responder cinco questões relativas ao conjunto de dados "Body Fat Prediction", utilizando os conceitos estatísticos aprendidos no módulo, tais como estatística descritiva, amostragem, distribuições de probabilidade e testes de hipóteses.
+
+**Datasets utilizados:**
+- Body Fat Prediction Dataset:
+  - Descrição do Dataset: Apresenta estimativas do percentual de gordura corporal determinado por pesagem subaquática e várias medidas de circunferência corporal para 252 homens.
+  - Para acessar clique [aqui](https://www.kaggle.com/datasets/fedesoriano/body-fat-prediction-dataset)
+ 
+O projeto de **estatística** pode ser acessado [aqui](https://github.com/leticiadluz/projetos_ADA/blob/main/estatistica/projeto_estatistica.ipynb)
 
