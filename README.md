@@ -60,3 +60,13 @@ O propósito deste quarto projeto é responder cinco questões relativas ao conj
  
 O projeto de **estatística** pode ser acessado [aqui](https://github.com/leticiadluz/projetos_ADA/blob/main/estatistica/projeto_estatistica.ipynb)
 
+## Ferramentas utilizadas
+
+* Google Colab
+* Jupyter Notebook
+  
+## Linguagem utilizada
+
+* Python
+
+
